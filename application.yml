@@ -1,1 +1,3 @@
-gihprofile.giftcard.limit=1000
+gihprofile:
+  giftcard:
+    limit: 1000
