@@ -1,3 +1,4 @@
 gihprofile:
-  giftcard:
-    limitNew: 8000
+  configDemo:
+    configRepo:
+      value: 'configuration from Config repository'
