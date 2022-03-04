@@ -1,4 +1,4 @@
 gihprofile:
   configDemo:
     configRepo:
-      value: 'configuration from Config repository config/gih-profile/application.yml changed'
+      value: 'configuration from Config repository config/gih-profile/application.yml to new updated'
